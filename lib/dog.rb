@@ -6,4 +6,5 @@ end
     this_dog_name
   end
 end
-lassie = lassie.Dog
+lassie = Dog.new
+lassie =
